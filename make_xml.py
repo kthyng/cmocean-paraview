@@ -17,8 +17,7 @@ N = 256
 x = np.linspace(0, 1, N)
 
 # location of local rgb files
-# Update to matplotlib from kthyng once matplotlib is updated.
-loc = 'https://raw.githubusercontent.com/kthyng/cmocean/master/cmocean/rgb/'
+loc = 'https://raw.githubusercontent.com/matplotlib/cmocean/master/cmocean/rgb/'
 
 # file list
 Files = [loc + name + '-rgb.txt' for name in cmocean.cm.cmapnames]

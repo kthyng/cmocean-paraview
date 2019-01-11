@@ -1,6 +1,8 @@
 # cmocean-paraview
 cmocean colormaps for Paraview
 
+With four new colormaps from cmocean 2.0!
+
 Bring beautiful oceanography colormaps into your research. There is [documentation](http://matplotlib.org/cmocean/) for the cmocean colormaps.
 
 To install, import xml into paraview:
